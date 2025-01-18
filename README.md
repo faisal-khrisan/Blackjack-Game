@@ -1,5 +1,8 @@
 # Blackjack-Game
 This Python app implements a simplified version of the classic card game Blackjack (also known as 21). The game allows the player to draw cards and compete against the dealer to get a hand value as close to 21 as possible without exceeding it. The player can choose to draw additional cards or pass, and the dealer follows a set of rules to determine their moves.
+
+- Try it here : https://www.pythonanywhere.com/gists/f091981952dfdaf3adb3d8dba95d8b75/Blackjack%20game.py/python/
+  
 # Features:
 * Card Drawing: The player and dealer are dealt two initial cards. The player can choose to draw additional cards.
 
